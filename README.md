@@ -21,7 +21,7 @@
 - 🎓 &nbsp; Studying Computer Science and Technology.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
 - ✍️ &nbsp; Interest is playing games and watching Anima.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; Programmers are in a race with the Universe to create bigger and better idiot-proof programs, while the Universe is trying to create bigger and better idiots. So far the Universe is winning.
 
 ### 🛠 &nbsp;Tech Stack
 
